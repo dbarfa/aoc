@@ -28,7 +28,7 @@ def part2(lines):
         total_sum += int(digits[0] + digits[-1])
     return total_sum
 
-with open('input.txt', 'r') as input_file:
+with open('input', 'r') as input_file:
     lines = input_file.readlines()
 
 print(part1(lines))
