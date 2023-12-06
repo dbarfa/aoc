@@ -1,5 +1,7 @@
 # bad code alert, speedrunned in 9 minutes
-# part 2 is bruteforced, concat the string and use same algo
+# just know your algebra. i just solved the equation through iteration sort of
+# part 2 is bruteforced, join the array into a string and use same algo
+ 
 with open("input","r") as input_file:
     lines = input_file.readlines()
 
