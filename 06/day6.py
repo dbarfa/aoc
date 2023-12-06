@@ -1,6 +1,6 @@
 # bad code alert, speedrunned in 9 minutes
 # just know your algebra. i just solved the equation through iteration sort of
-# part 2 is bruteforced, join the array into a string and use same algo
+# part 2 is bruteforced, join the elements of array(n) into a string(1) in arrau and use same algo
  
 with open("input","r") as input_file:
     lines = input_file.readlines()
